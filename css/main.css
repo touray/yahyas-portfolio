@@ -1,11 +1,11 @@
   body {
-     background-color: blue;
+     background-color: white;
   }
   h1 {
      position: absolute;
      padding-top: 200px;
      padding-left: 60px;
-     color:  red;
+     color:#e1c9e8;
      font-family: Arial, Helvetica, sans-serif;
 
   }
